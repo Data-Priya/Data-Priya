@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Data-Priya
 - 👀 Aspiring Data Scientist.
-- 🌱 Learning data science, including ML and data visualization
+- 🌱 Learning data science, including ML,DL & GEN AI and data visualization
 - 💞️ Open to collaboration on impactful data projects
 - 📫 Reach me on GitHub or LinkedIn
 - 😄 Pronouns: She/Her
